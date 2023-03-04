@@ -6,6 +6,6 @@ module.exports = {
 		frequency: 1, // (in minutes)
 	},
 	urls: [
-		"https://www.abhin.dev/"
+		"https://abhin.dev/"
 	]
 };
