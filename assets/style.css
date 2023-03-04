@@ -1,9 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Fira+Mono:wght@400;500;700&family=Rubik:wght@300;400;500;600;700&display=swap');
+
 html {
 	overflow-y: scroll;
 	margin: 0;
 }
 body {
-	font-family: system-ui, sans-serif;
+	font-family: 'Fira Mono', system-ui, sans-serif;
 	background-color: #2e2e2e;
 	color: #fff;
 	margin: 0.5rem; /* 8px /16 */
