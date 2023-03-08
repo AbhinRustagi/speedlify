@@ -2,7 +2,7 @@ module.exports = {
 	name: "Abhin Rustagi | Personal Site",
 	description: "Personal Website",
 	options: {
-		runs: 1,
+		runs: 60 * 23,
 		frequency: 1, // (in minutes)
 	},
 	urls: [
